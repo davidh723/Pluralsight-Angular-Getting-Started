@@ -2,6 +2,8 @@
 
 This sample application is the outcome of the "Angular: Getting Started" course on Pluralsight: http://bit.ly/Angular-GettingStarted
 
+[Netlify deployment](https://ecstatic-swartz-0933ef.netlify.app)
+
 This project aims to partice the following basic topics in Angular:
 
 1. Components
